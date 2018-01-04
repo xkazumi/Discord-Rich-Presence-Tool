@@ -92,21 +92,21 @@ public:
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
 "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:12pt; font-weight:600;\">Discord Rich Presence Tool</span></p>\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><a href=\"https://github.com/rarcoon\"><span style=\" font-size:8pt; text-decoration: underline; color:#0000ff;\">https://github.com/rarcoon</span></a></p>\n"
-"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><br /></p>\n"
-"<p align=\"right\" style=\""
-                        " margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Icons from <span style=\" font-weight:600;\">Icons8</span></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><a href=\"https://github.com/Rarcoon/Discord-Rich-Presence-Tool/\"><span style=\" font-size:8pt; text-decoration: underline; color:#0000ff;\">https://github.com/Rarcoon/Discord-Rich-Presence-Tool/</span></a></p>\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text"
+                        "-indent:0px;\"><br /></p>\n"
+"<p align=\"right\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Icons from <span style=\" font-weight:600;\">Icons8</span></p>\n"
 "<p align=\"right\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><a href=\"https://icons8.com/\"><span style=\" font-size:8pt; text-decoration: underline; color:#0000ff;\">https://icons8.com/</span></a></p>\n"
 "<p align=\"right\" style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt; text-decoration: underline; color:#0000ff;\"><br /></p>\n"
-"<p align=\"right\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:8pt;\">GUI created using </span><span style=\" font-size:8pt; font-weight:600;\">Qt Open Source Edition 5.10.0</span></p>\n"
-"<p align=\"right\" style=\" margin-top:0px"
-                        "; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><a href=\"https://www.qt.io/\"><span style=\" font-size:8pt; text-decoration: underline; color:#0000ff;\">https://www.qt.io/</span></a></p>\n"
-"<p align=\"right\" style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt; text-decoration: underline; color:#0000ff;\"><br /></p>\n"
-"<p align=\"right\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:8pt;\">This tool is </span><span style=\" font-size:8pt; font-weight:600;\">unofficial</span><span style=\" font-size:8pt;\"> and is </span><span style=\" font-size:8pt; font-weight:600; text-decoration: underline;\">not</span><span style=\" font-size:8pt;\"> supported or endorsed by </span><span style=\" font-size:8pt; font-weight:600;\">Discord</span><span style=\" font-size:8pt;\">.<"
+"<p align=\"right\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:8pt;\">GUI created using </span><span style=\" font-size:8pt; font-weight:600;\">Qt Open Source Edition 5.10.0<"
                         "/span></p>\n"
+"<p align=\"right\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><a href=\"https://www.qt.io/\"><span style=\" font-size:8pt; text-decoration: underline; color:#0000ff;\">https://www.qt.io/</span></a></p>\n"
+"<p align=\"right\" style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt; text-decoration: underline; color:#0000ff;\"><br /></p>\n"
+"<p align=\"right\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:8pt;\">This tool is </span><span style=\" font-size:8pt; font-weight:600;\">unofficial</span><span style=\" font-size:8pt;\"> and is </span><span style=\" font-size:8pt; font-weight:600; text-decoration: underline;\">not</span><span style=\" font-size:8pt;\"> supported or endorsed by </span><span style=\" font-size:8pt; font-weigh"
+                        "t:600;\">Discord</span><span style=\" font-size:8pt;\">.</span></p>\n"
 "<p align=\"right\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><a href=\"https://discordapp.com/\"><span style=\" font-size:8pt; text-decoration: underline; color:#0000ff;\">https://discordapp.com/</span></a></p>\n"
 "<p align=\"right\" style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt; text-decoration: underline; color:#0000ff;\"><br /></p>\n"
-"<p align=\"right\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:8pt;\">v1.0.0</span></p></body></html>", nullptr));
+"<p align=\"right\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:8pt;\">v1.0.1</span></p></body></html>", nullptr));
     } // retranslateUi
 
 };
