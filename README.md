@@ -20,4 +20,4 @@ https://www.qt.io/
 https://github.com/discordapp/discord-rpc
 
 ## Feedback
-If you would like to provide feedback or suggest new ic)ons, you can contact me on Discord (Rarcoon#4192) or Twitter ([@N6T4_](https://twitter.com/n6t4_ "@N6T4_")).
+If you would like to provide feedback or suggest new icons, you can contact me on Discord (Rarcoon#4192) or Twitter ([@N6T4_](https://twitter.com/n6t4_ "@N6T4_")).
