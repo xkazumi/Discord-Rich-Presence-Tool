@@ -1,5 +1,5 @@
 # Discord Rich Presence Tool
-A program that lets you fill in your own Rich Presence information for games and activities away from the PC.
+A C++/Qt program that lets you fill in your own Discord Rich Presence information for games and activities away from the PC.
 
 ### Note
 The Discord API only allows you to update your Rich Presence information once every 15 seconds. (https://discordapp.com/developers/docs/topics/rate-limits)
