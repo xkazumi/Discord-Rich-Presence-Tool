@@ -9,7 +9,10 @@ The Discord API only allows you to update your Rich Presence information once ev
 
 ![The result in Discord](screenshots/2.png)
 
-## Requires
+## Download
+You can find the latest compiled releases here: https://github.com/Rarcoon/Discord-Rich-Presence-Tool/releases
+
+## Requirements (developers only)
 - Qt Open Source Edition
 https://www.qt.io/
 
