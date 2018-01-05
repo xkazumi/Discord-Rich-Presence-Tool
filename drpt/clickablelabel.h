@@ -2,6 +2,7 @@
 
 #include <QLabel>
 
+// Qt label widget that generates click events
 class ClickableLabel : public QLabel
 {
 	Q_OBJECT
@@ -9,9 +10,6 @@ class ClickableLabel : public QLabel
 public:
 	ClickableLabel(QWidget *parent);
 	~ClickableLabel();
-
-	QString styleEnter;
-	QString styleLeave;
 
 signals:
 	void Clicked();

@@ -16,14 +16,8 @@ void ClickableLabel::mousePressEvent(QMouseEvent *event)
 
 void ClickableLabel::enterEvent(QEvent * event)
 {
-	setStyleSheet(styleEnter);
-	//QPalette palette;
-	//palette.setColor(QPalette::WindowText, Qt::white);
-	//setStyleSheet("");
-	//setPalette(palette);
 }
 
 void ClickableLabel::leaveEvent(QEvent * event)
 {
-	setStyleSheet(styleLeave);
 }

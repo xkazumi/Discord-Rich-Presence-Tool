@@ -83,7 +83,7 @@
          </widget>
         </item>
         <item>
-         <widget class="ClickableLabel" name="labelAbout">
+         <widget class="AboutLabel" name="labelAbout">
           <property name="sizePolicy">
            <sizepolicy hsizetype="Fixed" vsizetype="Preferred">
             <horstretch>0</horstretch>
@@ -561,9 +561,9 @@
  <layoutdefault spacing="6" margin="11"/>
  <customwidgets>
   <customwidget>
-   <class>ClickableLabel</class>
+   <class>AboutLabel</class>
    <extends>QLabel</extends>
-   <header>clickablelabel.h</header>
+   <header>aboutlabel.h</header>
   </customwidget>
  </customwidgets>
  <resources>
