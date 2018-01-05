@@ -16,19 +16,13 @@ void Discord::Initialise(std::string appId)
 	if (bInitialised)
 		return;
 
-	handlers = { 0 };
-	//memset(&handlers, 0, sizeof(handlers));
-
-	handlers.ready = handlers.ready;
-	handlers.errored = handlers.errored;
-	handlers.disconnected = handlers.disconnected;
-	handlers.joinGame = handlers.joinGame;
-	handlers.spectateGame = handlers.spectateGame;
-	handlers.joinRequest = handlers.joinRequest;
+	// Initialise handlers
+	handlers = {};
 
 	Discord_Initialize(appId.c_str(), &handlers, 1, nullptr);
 
 	bInitialised = true;
+
 	return;
 }
 
@@ -37,6 +31,7 @@ bool Discord::UpdatePresence(RichPresence &richPresence)
 	if (!bInitialised)
 		return false;
 
+	// Copy Rich Presence details from parameter struct to member struct
 	rich.details = richPresence.details.c_str();
 	rich.state = richPresence.state.c_str();
 	rich.largeImageKey = richPresence.largeKey.c_str();
