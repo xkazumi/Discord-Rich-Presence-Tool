@@ -36,9 +36,6 @@
     <ClCompile Include="discord.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="iconselect.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="GeneratedFiles\Debug\moc_clickablelabel.cpp">
       <Filter>Generated Files</Filter>
     </ClCompile>
@@ -69,11 +66,17 @@
     <ClCompile Include="GeneratedFiles\qrc_drpt.cpp">
       <Filter>Generated Files</Filter>
     </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_aboutlabel.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_aboutlabel.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="aboutlabel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="iconselect.h">
-      <Filter>Header Files</Filter>
-    </CustomBuild>
     <CustomBuild Include="clickablelabel.h">
       <Filter>Header Files</Filter>
     </CustomBuild>
@@ -91,6 +94,9 @@
     </CustomBuild>
     <CustomBuild Include="drpt.qrc">
       <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="aboutlabel.h">
+      <Filter>Header Files</Filter>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
