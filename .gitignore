@@ -357,3 +357,9 @@ ASALocalRun/
 # Misc
 *.tlog
 *.lastbuildstate
+
+## Qt
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
