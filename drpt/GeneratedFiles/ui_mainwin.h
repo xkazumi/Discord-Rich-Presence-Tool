@@ -27,7 +27,7 @@
 #include <QtWidgets/QTimeEdit>
 #include <QtWidgets/QVBoxLayout>
 #include <QtWidgets/QWidget>
-#include "clickablelabel.h"
+#include "aboutlabel.h"
 
 QT_BEGIN_NAMESPACE
 
@@ -45,7 +45,7 @@ public:
     QVBoxLayout *verticalLayout_2;
     QHBoxLayout *horizontalLayout;
     QLabel *labelPlaying;
-    ClickableLabel *labelAbout;
+    AboutLabel *labelAbout;
     QHBoxLayout *horizontalLayout_2;
     QVBoxLayout *verticalLayout;
     QLabel *labelPlayPic;
@@ -141,7 +141,7 @@ public:
 
         horizontalLayout->addWidget(labelPlaying);
 
-        labelAbout = new ClickableLabel(centralWidget);
+        labelAbout = new AboutLabel(centralWidget);
         labelAbout->setObjectName(QStringLiteral("labelAbout"));
         QSizePolicy sizePolicy1(QSizePolicy::Fixed, QSizePolicy::Preferred);
         sizePolicy1.setHorizontalStretch(0);

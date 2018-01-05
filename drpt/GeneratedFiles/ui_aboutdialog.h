@@ -103,10 +103,10 @@ public:
 "<p align=\"right\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><a href=\"https://www.qt.io/\"><span style=\" font-size:8pt; text-decoration: underline; color:#0000ff;\">https://www.qt.io/</span></a></p>\n"
 "<p align=\"right\" style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt; text-decoration: underline; color:#0000ff;\"><br /></p>\n"
 "<p align=\"right\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:8pt;\">This tool is </span><span style=\" font-size:8pt; font-weight:600;\">unofficial</span><span style=\" font-size:8pt;\"> and is </span><span style=\" font-size:8pt; font-weight:600; text-decoration: underline;\">not</span><span style=\" font-size:8pt;\"> supported or endorsed by </span><span style=\" font-size:8pt; font-weigh"
-                        "t:600;\">Discord</span><span style=\" font-size:8pt;\">.</span></p>\n"
+                        "t:600;\">Discord</span></p>\n"
 "<p align=\"right\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><a href=\"https://discordapp.com/\"><span style=\" font-size:8pt; text-decoration: underline; color:#0000ff;\">https://discordapp.com/</span></a></p>\n"
 "<p align=\"right\" style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt; text-decoration: underline; color:#0000ff;\"><br /></p>\n"
-"<p align=\"right\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:8pt;\">v1.0.1</span></p></body></html>", nullptr));
+"<p align=\"right\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:8pt;\">v1.0.2</span></p></body></html>", nullptr));
     } // retranslateUi
 
 };
