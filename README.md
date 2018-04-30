@@ -1,8 +1,10 @@
 # Discord Rich Presence Tool
 A C++/Qt program that lets you fill in your own custom Discord Rich Presence information for games and activities away from the PC.
 
-### Note
-The Discord API only allows you to update your Rich Presence information once every 15 seconds. (https://discordapp.com/developers/docs/topics/rate-limits)
+### Notes
+* The Discord API only allows you to update your Rich Presence information once every 15 seconds. (https://discordapp.com/developers/docs/topics/rate-limits)
+
+* Due to a limitation of the Discord Rich Presence API, it's not possible to change the *"Custom status"* program name from within the program. If you'd like to change this static name, feel free to [create a new Rich Presence application](https://discordapp.com/developers) and recompile DRPT with your own application ID, name and set of icons.
 
 ## Screenshots
 ![Main window](screenshots/1.png)
